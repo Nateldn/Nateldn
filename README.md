@@ -2,7 +2,6 @@
 - 👀 I’m interested in working on my front-end skillset
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a projects big or small
-- 📫 How to reach me nate@cogito-studio.com
 
 <!---
 Nateldn/Nateldn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
