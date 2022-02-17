@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nateldn
 - 👀 I’m interested in working on my front-end skillset
-- 🌱 I’m currently learning JavaScript and React <img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="10" alt="React Icons">
+- 🌱 I’m currently learning JavaScript and React <img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="20" alt="React Icons">
 - 💞️ I’m looking to collaborate on a projects big or small
 
 <!---
