@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nateldn
 - 👀 I’m interested in working on my front-end skillset
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on a projects big or small
 
 <!---
