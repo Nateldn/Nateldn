@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Nateldn
-- 👀 I’m interested in working on my front-end skillset
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on a projects big or small
 
