@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nateldn
+- 👋 Hi, I’m Nate
 - 🌱 I’m currently learning full-stack development
-- 💞️ I’m looking to collaborate on a projects big or small
+
 
 <!---
 Nateldn/Nateldn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
